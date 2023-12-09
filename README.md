@@ -8,7 +8,7 @@
 * The script fetches an image from a URL, converts it to an array, and then applies the Objectron model to detect and annotate cup landmarks. 
 * The resulting image is displayed with 2D landmarks and a 3D axis based on rotation and translation.
 
-### Ouput:
+### Output:
 
 ![App Screenshot](https://github.com/abhishekdeshmukh001/MediaPipe-Objectron-Image-and-Real-Time-Video-Processing/blob/main/3D%20Bounding%20Box.png?raw=true)
 
@@ -20,7 +20,7 @@
 * The script captures video from a specified file, resizes each frame, and applies the Objectron model to detect and annotate cups. 
 * The processed frames are displayed with 2D landmarks and a 3D axis in real-time.
 
-* ### Ouput:
+### Output:
 
 ![3D Object Detection](https://github.com/abhishekdeshmukh001/MediaPipe-Objectron-Image-and-Real-Time-Video-Processing/blob/main/Object%20Detection.gif)
 
