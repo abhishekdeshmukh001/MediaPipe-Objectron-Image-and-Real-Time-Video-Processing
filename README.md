@@ -1,4 +1,4 @@
-## Title: Mediopipe Objectron Image and Real Time Video Processing
+## Title: Mediapipe Objectron Image and Real Time Video Processing
 
 
 ## Project 1: Objectron Image Processing
